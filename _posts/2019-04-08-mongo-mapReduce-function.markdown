@@ -6,7 +6,7 @@ categories: mongo mapReduce
 ---
 
 1. mongo的查询语句与js的函数神似;
-2. 函数案例来源 [yyywyr-blog][yyywyr-blog-url]
+2. 函数案例来源 [http://blog.csdn.net/yyywyr/article/details/26287483][yyywyr-blog-url]
 
 ```js
 m = function (){
