@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Jekyll build warning"
+title:  "Jekyll的_config文件配置报错"
 date:   2019-04-08 09:00:00 +0800
 categories: jekyll update
 ---
-
-## Jekyll的_config文件配置报错
-
 Jekyll 搭建博客时, 修改完`_config.yml`文件后就收到了github的build error邮件.
 
 大致内容如下:

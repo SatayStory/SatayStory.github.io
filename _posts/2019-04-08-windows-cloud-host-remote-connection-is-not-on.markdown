@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Windows cloud host remote connection is not on?"
+title:  "Windows云主机远程连接不上？"
 date:   2019-04-08 09:00:00 +0800
-categories: mongo mapReduce
+categories: config
 ---
-
-## Windows云主机远程连接不上？
-
 开始→运行→输入`gpedit.msc`, 打开组策略（Group Policy）
 
 在左侧菜单栏
