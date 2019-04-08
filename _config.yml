@@ -22,7 +22,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   一个关于日常笔记的个人博客
   ---
   A personal blog about daily notes
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: IchiehPan
