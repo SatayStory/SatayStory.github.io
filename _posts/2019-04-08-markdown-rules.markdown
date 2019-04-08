@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown 语法的简要规则"
 date:   2019-04-08 09:00:00 +0800
-categories: config
+categories: code
 ---
 #目录
 - **Markdown和扩展Markdown简洁的语法**
